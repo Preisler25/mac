@@ -1,0 +1,6 @@
+@mac_HostAddress = http://localhost:5128
+
+GET {{mac_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
