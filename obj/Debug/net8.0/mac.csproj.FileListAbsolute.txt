@@ -111,3 +111,4 @@
 /Users/Preisler/Documents/webProg/mac/obj/Debug/net8.0/ref/mac.dll
 /Users/Preisler/Documents/webProg/mac/bin/Debug/net8.0/MySqlConnector.dll
 /Users/Preisler/Documents/webProg/mac/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/Preisler/Documents/webProg/mac/obj/Debug/net8.0/mac.sourcelink.json
